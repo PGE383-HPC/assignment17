@@ -1,6 +1,6 @@
 # Homework Assignment 17
 
-![Assignment 17](https://github.com/PGE383-HPC/assignment17-solution/actions/workflows/main.yml/badge.svg)
+![Assignment 17](https://github.com/PGE383-HPC/assignment17/actions/workflows/main.yml/badge.svg)
 
 The weak form of the steady-state pressure diffusivity equation is
 
